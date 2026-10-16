@@ -1,0 +1,146 @@
+{
+  "metaTitle": "Installation panneaux solaires au Maroc | Chergui Solaire",
+  "metaDescription": "Panneaux solaires au Maroc: prix publiés en 2026, loi 82-21 et devis à comparer. Casablanca, Rabat, Marrakech, Agadir, Tanger et Fès. Appelez maintenant.",
+  "heroH1": "Installation de panneaux solaires au Maroc: comparez des devis clairs",
+  "heroSub": "Chergui Solaire met en relation les foyers, agriculteurs et commerçants avec des installateurs solaires indépendants à Casablanca, Rabat, Marrakech, Agadir, Tanger et Fès. Vous appelez, on transmet votre besoin, puis un installateur indépendant vous contacte pour une visite et un devis écrit.",
+  "introKicker": "Panneaux solaires Maroc",
+  "introHeading": "Ce qu'il faut savoir avant de signer un devis solaire en 2026",
+  "tilesHeading": "Quel problème voulez-vous régler avec le solaire ?",
+  "tiles": [
+    {
+      "img": "tile-1",
+      "label": "Facture d'électricité trop haute en été",
+      "href": "/blog/panneaux-photovoltaiques-maison/",
+      "alt": "Panneaux photovoltaïques posés sur le toit-terrasse d'une villa au Maroc"
+    },
+    {
+      "img": "tile-2",
+      "label": "Coupures de courant à la maison",
+      "href": "/blog/panneaux-solaires-coupure-courant/",
+      "alt": "Onduleur hybride et batterie installés dans un local technique"
+    },
+    {
+      "img": "tile-3",
+      "label": "Devis impossibles à comparer",
+      "href": "/blog/devis-panneaux-solaires/",
+      "alt": "Deux devis d'installation solaire posés côte à côte sur une table"
+    },
+    {
+      "img": "tile-4",
+      "label": "Production en baisse sur une installation existante",
+      "href": "/blog/baisse-production-panneaux-solaires/",
+      "alt": "Panneaux solaires couverts de poussière sur un toit-terrasse"
+    },
+    {
+      "img": "service-1",
+      "label": "Installation de panneaux solaires",
+      "href": "/installation-panneaux-solaires/",
+      "alt": "Pose de panneaux solaires sur la structure d'un toit-terrasse"
+    },
+    {
+      "img": "service-2",
+      "label": "Batterie et onduleur solaire",
+      "href": "/batterie-onduleur-solaire/",
+      "alt": "Batterie lithium murale reliée à un onduleur hybride"
+    },
+    {
+      "img": "service-3",
+      "label": "Chauffe-eau solaire",
+      "href": "/chauffe-eau-solaire/",
+      "alt": "Chauffe-eau solaire à capteurs plans sur la terrasse d'une maison"
+    },
+    {
+      "img": "service-4",
+      "label": "Pompage solaire",
+      "href": "/pompage-solaire/",
+      "alt": "Panneaux solaires alimentant une pompe de puits dans une exploitation agricole"
+    }
+  ],
+  "serviceCards": [
+    {
+      "title": "Installation de panneaux solaires",
+      "desc": "Un système raccordé pour une villa ou un toit-terrasse, dimensionné sur votre consommation de jour. Un installateur indépendant visite le toit et chiffre panneaux, onduleur, structure et déclaration au distributeur.",
+      "href": "/installation-panneaux-solaires/"
+    },
+    {
+      "title": "Batterie et onduleur solaire",
+      "desc": "Un onduleur hybride et une batterie lithium pour stocker la production de la journée et garder l'essentiel allumé pendant une coupure. Le devis doit citer les modèles exacts et la capacité en kWh.",
+      "href": "/batterie-onduleur-solaire/"
+    },
+    {
+      "title": "Chauffe-eau solaire",
+      "desc": "Un chauffe-eau solaire de 200 litres, le format des prix publiés que nous relevons. L'installateur vérifie l'orientation, la toiture et le raccordement à votre plomberie.",
+      "href": "/chauffe-eau-solaire/"
+    },
+    {
+      "title": "Pompage solaire",
+      "desc": "Une pompe solaire pour un puits ou un forage, dimensionnée selon la hauteur à vaincre, le volume d'eau par jour et vos besoins d'irrigation. L'installateur vous remet un devis écrit.",
+      "href": "/pompage-solaire/"
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Chaque prix est sourcé et daté",
+      "desc": "Aucun chiffre sans le nom du vendeur ou de l'installateur qui le publie, le mois de lecture et la mention HT ou TTC. Un devis écrit reste le seul vrai prix."
+    },
+    {
+      "title": "La loi 82-21 expliquée simplement",
+      "desc": "Déclaration avant travaux, plafond de 20 % de surplus, absence de tarif basse tension: ce que le texte permet vraiment à une maison ou un commerce."
+    },
+    {
+      "title": "Le rendement réel de votre ville",
+      "desc": "Les estimations PVGIS par kWc pour Agadir, Marrakech, Casablanca, Rabat, Fès et Tanger, mois par mois. De quoi vérifier la production annoncée dans un devis."
+    },
+    {
+      "title": "Les bonnes questions pour chaque devis",
+      "desc": "Modèles exacts des panneaux, de l'onduleur et de la batterie, échéancier de paiement, garanties composant par composant. La même liste pour comparer deux ou trois offres."
+    }
+  ],
+  "processSteps": [
+    {
+      "step": "1",
+      "title": "Demande et échange technique",
+      "desc": "Vous appelez avec votre ville, le type de toit et une facture récente. On transmet votre demande à un installateur indépendant qui vous rappelle pour préciser le besoin."
+    },
+    {
+      "step": "2",
+      "title": "Visite du site et périmètre",
+      "desc": "L'installateur vient voir le toit-terrasse, le tableau électrique ou le puits. Il fixe avec vous la puissance en kWc, la batterie éventuelle et ce que comprend la pose."
+    },
+    {
+      "step": "3",
+      "title": "Devis écrit et réalisation",
+      "desc": "Vous recevez un devis écrit avec les modèles exacts, le prix HT ou TTC et l'échéancier. Les travaux démarrent après votre accord, et la déclaration au distributeur prévue par la loi 82-21 se fait avant."
+    }
+  ],
+  "whyHeading": "Des repères sourcés pour choisir votre installation solaire",
+  "aboutBlurb": "<p>Pour 3 kWc posés, les fourchettes publiées par des installateurs marocains en 2026 vont d'environ 25 000 à 50 000 DH selon la source, le matériel et la mention HT ou TTC. Taqinor, par exemple, affichait 28 000 à 42 000 DH TTC pour 3 kWc fourni-posé en octobre 2026. Un kit sans pose coûte nettement moins, d'où l'écart entre les annonces. Le détail par source est sur notre page <a href=\"/prix-panneaux-solaires-maroc/\">prix des panneaux solaires au Maroc</a>.</p><p>Côté loi, la <strong>loi 82-21</strong> impose de déclarer une petite installation au distributeur avant les travaux, et le surplus vendable est plafonné à 20 % de la production annuelle. ANRE n'a pas encore fixé de tarif de rachat en basse tension, donc une maison se dimensionne pour consommer sur place, avec une <a href=\"/batterie-onduleur-solaire/\">batterie et un onduleur hybride</a> si besoin. Pour aller plus loin, lisez notre guide de la <a href=\"/blog/loi-82-21-autoconsommation/\">loi 82-21 sur l'autoconsommation</a> et notre article sur le <a href=\"/blog/devis-panneaux-solaires/\">devis de panneaux solaires</a>.</p>",
+  "areaBlurb": "<p>Les demandes sont transmises à des installateurs indépendants à <a href=\"/panneaux-solaires-casablanca/\">Casablanca</a>, <a href=\"/panneaux-solaires-rabat/\">Rabat</a>, <a href=\"/panneaux-solaires-marrakech/\">Marrakech</a>, <a href=\"/panneaux-solaires-agadir/\">Agadir</a>, <a href=\"/panneaux-solaires-tanger/\">Tanger</a> et <a href=\"/panneaux-solaires-fes/\">Fès</a>. Selon PVGIS, 1 kWc bien orienté produit en moyenne 1 837 kWh par an à Agadir, 1 721 kWh à Casablanca et 1 660 kWh à Tanger, avant poussière. Chaque page ville donne les chiffres mois par mois.</p>",
+  "contactBlurb": "Après votre appel, un installateur indépendant vous contacte pour organiser une visite du toit, du tableau électrique ou du puits et fixer le périmètre. Il vous remet ensuite un devis écrit qui liste les modèles exacts de panneaux, d'onduleur et de batterie, le prix HT ou TTC et l'échéancier de paiement.",
+  "faq": [
+    {
+      "q": "Combien coûte une installation de panneaux solaires au Maroc ?",
+      "a": "Pour 3 kWc posés, les fourchettes publiées par des installateurs marocains en 2026 vont d'environ 25 000 à 50 000 DH selon la source, le matériel et la mention HT ou TTC. Par exemple, Smart Ecosun (Marrakech) affichait 35 000 à 45 000 DH TTC pour 3 kWc et Noor Energie 25 000 à 35 000 MAD TTC, lus en octobre 2026. Le prix dépend de la puissance en kWc, de la présence d'une batterie, des marques et du type de toit: c'est ce que l'installateur fixe lors de la visite. Seul un devis écrit avec les modèles exacts vous donne le vrai chiffre."
+    },
+    {
+      "q": "Combien de temps entre ma demande et l'installation ?",
+      "a": "Après votre appel, un installateur indépendant vous recontacte pour fixer une visite; il donne ses propres délais de devis et de pose: faites-les écrire dans le devis. Selon le décret d'application, tel que rapporté par le cabinet Bird & Bird, une installation de moins de 11 kW en basse tension est déclarée au distributeur, qui délivre un récépissé sous un mois. Les travaux ne doivent commencer qu'après cette déclaration, en vigueur depuis juin 2026."
+    },
+    {
+      "q": "Faut-il déclarer des panneaux solaires installés chez soi ?",
+      "a": "Oui. La loi 82-21 (article 4) prévoit qu'une installation sous le seuil fixé par décret, raccordée au réseau basse tension, est déclarée au distributeur avant le début des travaux. Construire ou augmenter la puissance sans la déclaration requise expose à une amende de 2 000 à 5 000 DH (article 28). Demandez si la déclaration est incluse dans le devis."
+    },
+    {
+      "q": "Peut-on revendre son surplus d'électricité à l'ONEE ?",
+      "a": "Pas pour une maison aujourd'hui. La loi 82-21 plafonne le surplus vendable à 20 % de la production annuelle, et ANRE n'a fixé de tarif que pour la moyenne, haute et très haute tension. Le tarif basse tension sera fixé plus tard, donc une installation domestique se dimensionne pour être consommée sur place, en journée ou via une batterie."
+    },
+    {
+      "q": "Comment choisir un installateur de panneaux solaires ?",
+      "a": "Demandez deux ou trois devis comparables qui citent les modèles exacts de panneaux, d'onduleur et de batterie, la mention HT ou TTC, ce que comprend la pose et les garanties par composant. Vous pouvez aussi demander si l'entreprise est labellisée TaqaPro et vérifier l'annuaire sur taqapro.amee.ma. Ce label de l'AMEE est volontaire, ce n'est pas une obligation légale."
+    },
+    {
+      "q": "Faut-il une batterie avec des panneaux solaires ?",
+      "a": "Pas toujours: sans tarif de rachat en basse tension, la batterie sert à utiliser le soir ce que les panneaux produisent le jour, et à tenir pendant une coupure. Pour une batterie lithium d'environ 5 kWh, les prix publiés vont de 13 500 DH (Dyness DL5.0C en promotion chez EcoVolt, octobre 2026, TVA non précisée) à 38 000 DH (fourchette lechantier.ma). Un installateur vous dira si votre consommation du soir justifie cet ajout."
+    }
+  ]
+}

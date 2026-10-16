@@ -1,0 +1,59 @@
+{
+  "slug": "panneaux-solaires-tanger",
+  "city": "Tanger",
+  "metaTitle": "Panneaux solaires Tanger : rendement, devis et loi 82-21",
+  "metaDescription": "Panneaux solaires à Tanger : rendement PVGIS, creux d'hiver, vent du détroit et devis comparables. Parlez à un installateur indépendant au +212 5 22 00 00 00.",
+  "h1": "Panneaux solaires à Tanger : ce qu'il faut savoir avant de signer un devis",
+  "heroSub": "Tanger a le rendement modélisé le plus bas des six villes couvertes ici, et l'hiver y pèse davantage. Entre le vent du détroit et l'air salin de Malabata ou d'Achakar, un bon devis se juge sur le dimensionnement et la fixation, pas seulement sur le prix.",
+  "introHtml": "<p>À Tanger, un système photovoltaïque fonctionne très bien, mais il faut le dimensionner sur les bons chiffres. Selon PVGIS (v5.3, données SARAH3 2005-2023), 1 kWc bien orienté y produit en moyenne 1 660 kWh par an, soit environ 4,55 kWh par jour. C'est le rendement le plus bas des six villes que nous couvrons, et l'écart avec Agadir (1 837 kWh) est d'environ 11 %.</p><p>Ce site ne vend et n'installe rien. Il vous met en relation avec un installateur indépendant qui établit votre devis. Demandez deux ou trois devis écrits qui listent les modèles exacts de panneaux, d'onduleur et de batterie, puis comparez-les ligne par ligne. Pour l'ensemble des prix publiés, voyez notre page <a href=\"/prix-panneaux-solaires-maroc/\">prix des panneaux solaires au Maroc</a>.</p>",
+  "services": [
+    {
+      "title": "Panneaux solaires pour villa et toit-terrasse",
+      "desc": "Pour une villa ou un dernier étage avec toit-terrasse, de Malabata à Boukhalef, un installateur indépendant vous proposera une puissance en kWc calée sur votre consommation réelle, en tenant compte du creux de décembre."
+    },
+    {
+      "title": "Batterie et onduleur hybride",
+      "desc": "Le surplus d'une maison n'a pas encore de prix de rachat en basse tension, donc la batterie et l'usage en journée comptent. Voir notre page batterie et onduleur solaire pour les fourchettes publiées."
+    },
+    {
+      "title": "Chauffe-eau solaire",
+      "desc": "Remplacer un chauffe-eau au butane ou électrique peut se faire chiffrer en même temps qu'un projet photovoltaïque. Les prix publiés pour un modèle de 200 litres sont détaillés sur la page chauffe-eau solaire."
+    },
+    {
+      "title": "Pompage solaire",
+      "desc": "Pour une exploitation de l'arrière-pays tangérois qui pompe au butane ou au diesel, une pompe solaire se dimensionne sur le débit, la hauteur de refoulement et les mois les moins ensoleillés. Plus de détails sur la page pompage solaire."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Le creux d'hiver à Tanger : dimensionner sur décembre, pas sur juillet",
+      "html": "<p>Tanger a le plus grand écart saisonnier des six villes dans les données PVGIS. En juillet, 1 kWc produit en moyenne 5,49 kWh par jour. En décembre, ce chiffre tombe à 3,42 kWh, soit environ 38 % de moins.</p><p>Exemple de calcul, à titre d'illustration : un système de 4 kWc donne environ 18,2 kWh par jour en moyenne annuelle (4 x 4,55), mais seulement 13,7 kWh environ un jour de décembre (4 x 3,42). Ce sont des chiffres modélisés, avant salissure des panneaux. Si vos besoins d'hiver comptent, par exemple le chauffage électrique ou l'eau chaude, dites-le à l'installateur dès la première visite.</p><p>Comparez vous-même ces kWh avec la consommation inscrite sur votre facture d'électricité. Nous ne promettons ni économie en dirhams ni durée de retour sur investissement : le prix du kWh et votre tranche figurent sur votre facture, et c'est avec eux que vous ferez le calcul.</p>"
+    },
+    {
+      "heading": "Vent, embruns et toit-terrasse : ce que le climat de Tanger change à l'installation",
+      "html": "<p>Le détroit est souvent venté. Sur un toit-terrasse exposé, à Malabata face à la baie ou vers Achakar côté Atlantique, la structure de fixation compte autant que les panneaux. Demandez à chaque installateur comment il fixe ou leste la structure et sur quoi il s'appuie pour la dimensionner.</p><p>Près de la côte, l'air salin peut attaquer les métaux. Demandez dans le devis la matière de la structure et de la visserie, ainsi que la garantie de chaque composant, panneaux, onduleur et batterie séparément. Un devis qui dit seulement « structure incluse » ne permet pas de comparer.</p><p>Enfin, gardez un accès pour nettoyer les panneaux : poussière et sel peuvent réduire la production, et les chiffres PVGIS ci-dessus sont calculés avant salissure. Pour la démarche complète, voyez notre page <a href=\"/installation-panneaux-solaires/\">installation de panneaux solaires</a>.</p>"
+    },
+    {
+      "heading": "Ce que la loi 82-21 permet à un foyer ou un commerce tangérois",
+      "html": "<p>La loi 82-21 sur l'autoproduction d'électricité (Bulletin officiel n° 7400) encadre les installations raccordées au réseau. Pour une installation en basse tension sous le seuil fixé par décret, il faut une déclaration auprès du distributeur d'électricité avant les travaux. Selon le décret d'application, tel que rapporté par le cabinet Bird & Bird, ce seuil est de 11 kW, avec un récépissé sous un mois, et le régime s'applique depuis juin 2026.</p><p>Construire ou augmenter une installation sans la déclaration requise expose à une amende de 2 000 à 5 000 DH (article 28). Demandez que la déclaration à votre distributeur figure noir sur blanc dans ce que l'installateur prend en charge. Le nom de votre distributeur est sur votre facture.</p><p>La loi limite le surplus vendu à 20 % de la production annuelle, et l'ANRE n'a pas encore fixé de tarif pour la basse tension. Une maison ne peut donc pas compter aujourd'hui sur la revente de son surplus. Pour un commerce ou un atelier, la logique est la même : produire en journée ce que l'on consomme en journée.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le solaire a-t-il un intérêt à Tanger malgré un ensoleillement plus faible ?",
+      "a": "Tanger reste une bonne ville pour le solaire, avec environ 1 660 kWh par an et par kWc selon PVGIS. C'est environ 11 % de moins qu'Agadir, et le creux de décembre est plus marqué qu'ailleurs. Nous ne donnons pas de délai de retour : comparez les kWh produits avec votre facture et le prix du kWh qui y figure."
+    },
+    {
+      "q": "Combien coûte une installation de 3 kWc à Tanger ?",
+      "a": "Nous n'avons pas relevé de prix propre à Tanger. Pour 3 kWc posés, les fourchettes publiées par des installateurs marocains en 2026 vont d'environ 25 000 à 50 000 DH selon la source, le matériel et la mention HT ou TTC. Seul un devis écrit actuel, avec les modèles exacts, donne le vrai chiffre pour votre toit."
+    },
+    {
+      "q": "Le vent de Tanger peut-il endommager une installation sur toit-terrasse ?",
+      "a": "Le vent impose une fixation sérieuse, surtout sur une terrasse exposée près de la mer. Demandez à chaque installateur comment la structure est fixée ou lestée et en quelle matière elle est faite. Si la réponse reste vague, comparez avec un autre devis."
+    },
+    {
+      "q": "Comment choisir un installateur à Tanger ?",
+      "a": "Demandez si l'entreprise est labellisée TaqaPro et vérifiez l'annuaire sur taqapro.amee.ma ; ce label de l'AMEE est volontaire, pas obligatoire. Exigez un devis qui détaille les modèles, la mention HT ou TTC, l'échéancier de paiement et la garantie de chaque composant. Pour être mis en relation avec un installateur indépendant, appelez le +212 5 22 00 00 00."
+    }
+  ]
+}

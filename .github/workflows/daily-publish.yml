@@ -1,0 +1,36 @@
+name: Daily Blog Publish
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # daily 3 PM UTC; PUBLISH_MIN_HOURS below makes it one post every 48 h
+  workflow_dispatch:  # manual runs skip the gate and publish the next draft now
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run publisher
+        env:
+          PUBLISH_MIN_HOURS: '0'  # hours between posts; 0 = one post per run
+          FORCE_PUBLISH: ${{ github.event_name == 'workflow_dispatch' }}
+        run: python .github/scripts/cloud_publish.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes to publish" && exit 0
+          git commit -m "$(cat .github/scripts/commit-msg.txt 2>/dev/null || echo 'Publish scheduled blog post')"
+          git push origin HEAD:main

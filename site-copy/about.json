@@ -1,0 +1,39 @@
+{
+  "metaTitle": "À propos de Chergui Solaire | Installation solaire au Maroc",
+  "metaDescription": "Chergui Solaire vous met en relation avec des installateurs solaires indépendants au Maroc et vous aide à comparer des devis précis, modèle par modèle.",
+  "h1": "À propos de Chergui Solaire",
+  "heroSub": "Un site d'information et de mise en relation pour l'énergie solaire au Maroc. Nous n'installons rien et ne vendons rien : nous vous aidons à poser les bonnes questions et à comparer des devis précis.",
+  "storyHtml": "<p><strong>Chergui Solaire est un site d'information, pas une entreprise d'installation.</strong> Quand vous nous appelez, votre demande est transmise à un installateur indépendant. C'est lui qui visite, qui établit le devis et qui répond de son travail. Le site ne détient aucun label, aucune licence et aucune certification, et il ne prétend pas le contraire.</p><p>Ce que nous apportons, c'est une méthode. Avant tout chiffre, un bon dimensionnement part de votre facture d'électricité, de vos usages en journée (la climatisation l'été, le chauffe-eau, une pompe) et de la surface utile de votre toit-terrasse. Les rendements que nous citons viennent de PVGIS, l'outil de la Commission européenne : environ 1 721 kWh par an pour 1 kWc à Casablanca, 1 837 kWh à Agadir et 1 660 kWh à Tanger (modèle PVGIS-SARAH3, avant salissures). Ces chiffres servent à vérifier qu'une proposition est cohérente, pas à promettre une économie.</p><p>Nous expliquons aussi ce que la loi permet vraiment. La loi 82-21 sur l'autoproduction impose une déclaration au distributeur avant les travaux pour les petites installations en basse tension, et limite le surplus vendu à 20 % de la production annuelle. L'ANRE n'a pas encore fixé de tarif de rachat pour la basse tension : une installation domestique se dimensionne donc pour consommer sur place. Voir notre page <a href=\"/installation-panneaux-solaires/\">installation de panneaux solaires</a> pour le détail.</p><p>Enfin, nous publions des prix uniquement quand une entreprise ou un vendeur les affiche, avec son nom, la date et la mention HT ou TTC. Les fourchettes publiées pour 3 kWc posés varient du simple au double selon la source : notre page <a href=\"/prix-panneaux-solaires-maroc/\">prix des panneaux solaires au Maroc</a> montre cet écart et l'explique. Le seul chiffre qui compte pour vous reste un devis écrit et récent qui nomme chaque modèle.</p>",
+  "values": [
+    {
+      "title": "Un devis se lit modèle par modèle",
+      "desc": "Nous expliquons comment exiger la marque et la référence exacte des panneaux, de l'onduleur et de la batterie, la mention HT ou TTC, l'échéancier de paiement et la garantie de chaque composant. Deux devis ne se comparent qu'à matériel égal."
+    },
+    {
+      "title": "Le dimensionnement avant le prix",
+      "desc": "Un système se calcule à partir de vos kWh consommés en journée et du rendement de votre ville. Exemple illustratif : 4 kWc à Casablanca donnent en moyenne environ 18,9 kWh par jour selon PVGIS, et environ 15,7 kWh un jour de décembre."
+    },
+    {
+      "title": "Les sources toujours nommées",
+      "desc": "Chaque prix, rendement ou point juridique vient d'une source publiée et datée : vendeur, installateur, PVGIS, ANRE ou le texte de la loi 82-21. Si un chiffre n'est pas vérifié, nous ne l'écrivons pas et l'installateur vous le chiffrera."
+    },
+    {
+      "title": "Aucune promesse d'économie",
+      "desc": "Nous ne citons aucun tarif d'électricité et ne promettons ni économie en dirhams ni durée de retour sur investissement. Regardez le prix du kWh et votre tranche sur votre facture ONEE ou celle de votre distributeur, puis faites le calcul avec l'installateur."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Chergui Solaire installe-t-il lui-même les panneaux ?",
+      "a": "Non. Chergui Solaire est un site d'information et de mise en relation. Votre demande est transmise à un installateur indépendant qui établit son propre devis, réalise les travaux et en assume la responsabilité. Vérifiez toujours son identité et ses garanties par écrit avant de signer."
+    },
+    {
+      "q": "Comment savoir si un installateur est sérieux ?",
+      "a": "Demandez si l'entreprise est labellisée TaqaPro, le label qualité de l'AMEE pour les installateurs photovoltaïques, et vérifiez l'annuaire sur taqapro.amee.ma. Ce label est volontaire, pas obligatoire. Comparez ensuite deux ou trois devis écrits qui nomment chaque modèle et précisent qui fait la déclaration au distributeur."
+    },
+    {
+      "q": "Puis-je revendre mon surplus d'électricité au réseau ?",
+      "a": "Pas encore pour une maison. La loi 82-21 limite le surplus vendu à 20 % de la production annuelle, et l'ANRE n'a pas fixé de tarif pour la basse tension. Un système domestique se dimensionne pour consommer sur place, avec une batterie si vos besoins sont surtout le soir."
+    }
+  ]
+}
