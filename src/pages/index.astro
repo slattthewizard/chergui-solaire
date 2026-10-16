@@ -327,21 +327,21 @@ import Layout from '../layouts/Layout.astro';
   form.addEventListener('submit', function(e) {
     e.preventDefault();
     errBox.style.display = 'none';
-    submitBtn.disabled = true; submitBtn.textContent = 'Sending…';
-    fetch('https://formspree.io/f/REPLACE_ME', {
+    submitBtn.disabled = true; submitBtn.textContent = 'Envoi en cours…';
+    fetch('https://formspree.io/f/xljgayjn', {
       method: 'POST', body: new FormData(form), headers: { 'Accept': 'application/json' }
     })
     .then(function(r){ return r.json().then(function(d){ return {ok: r.ok, data: d}; }); })
     .then(function(res){
       if (res.ok) { form.style.display = 'none'; success.style.display = 'block'; }
       else {
-        errBox.textContent = 'Something went wrong. Please try again or call us directly.';
+        errBox.textContent = 'Un problème est survenu. Réessayez ou appelez-nous directement.';
         errBox.style.display = 'block';
         submitBtn.disabled = false; submitBtn.textContent = 'Recevoir un devis écrit';
       }
     })
     .catch(function(){
-      errBox.textContent = 'Could not send. Please call us at +212 5 22 00 00 00.';
+      errBox.textContent = 'Envoi impossible. Appelez-nous au +212 5 22 00 00 00.';
       errBox.style.display = 'block';
       submitBtn.disabled = false; submitBtn.textContent = 'Recevoir un devis écrit';
     });
