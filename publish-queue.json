@@ -61,7 +61,8 @@
   },
   {
     "draft": "drafts/devis-panneaux-solaires-2026-10-16.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-21T19:00:30.190299Z"
   },
   {
     "draft": "drafts/entretien-chauffe-eau-solaire-2026-10-16.md",
