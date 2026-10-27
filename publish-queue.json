@@ -91,7 +91,8 @@
   },
   {
     "draft": "drafts/normes-panneaux-solaires-2026-10-16.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-27T19:43:37.753361Z"
   },
   {
     "draft": "drafts/onduleur-solaire-panne-2026-10-16.md",
