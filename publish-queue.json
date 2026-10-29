@@ -101,7 +101,8 @@
   },
   {
     "draft": "drafts/panneaux-solaires-coupure-courant-2026-10-16.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-29T19:55:29.248571Z"
   },
   {
     "draft": "drafts/pompe-solaire-puits-2026-10-16.md",
