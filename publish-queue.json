@@ -151,7 +151,8 @@
   },
   {
     "draft": "drafts/projecteur-solaire-exterieur-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-08T19:13:13.811662Z"
   },
   {
     "draft": "drafts/types-batterie-solaire-2026-10-17.md",
