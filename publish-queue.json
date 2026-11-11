@@ -166,7 +166,8 @@
   },
   {
     "draft": "drafts/lampadaire-solaire-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-11T21:37:25.384170Z"
   },
   {
     "draft": "drafts/lire-facture-electricite-solaire-2026-10-17.md",
