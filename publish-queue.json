@@ -171,7 +171,8 @@
   },
   {
     "draft": "drafts/lire-facture-electricite-solaire-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-12T21:37:56.947718Z"
   },
   {
     "draft": "drafts/panneaux-solaires-avec-ou-sans-batterie-2026-10-17.md",
