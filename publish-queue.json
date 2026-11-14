@@ -181,7 +181,8 @@
   },
   {
     "draft": "drafts/cellule-photovoltaique-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-14T19:32:35.298741Z"
   },
   {
     "draft": "drafts/anre-autoproduction-2026-10-17.md",
