@@ -191,7 +191,8 @@
   },
   {
     "draft": "drafts/chauffage-solaire-maison-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-16T23:33:45.555318Z"
   },
   {
     "draft": "drafts/onduleur-deye-maroc-2026-10-17.md",
