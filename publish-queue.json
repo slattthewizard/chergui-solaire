@@ -201,7 +201,8 @@
   },
   {
     "draft": "drafts/onduleur-5kva-kw-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-18T22:24:12.682411Z"
   },
   {
     "draft": "drafts/onduleur-stabilisateur-2026-10-17.md",
