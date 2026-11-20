@@ -211,7 +211,8 @@
   },
   {
     "draft": "drafts/micro-onduleur-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-20T22:00:26.505757Z"
   },
   {
     "draft": "drafts/batterie-onduleur-2026-10-17.md",
