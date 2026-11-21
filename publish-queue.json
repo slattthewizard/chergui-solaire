@@ -216,7 +216,8 @@
   },
   {
     "draft": "drafts/batterie-onduleur-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-21T20:41:33.243968Z"
   },
   {
     "draft": "drafts/convertisseur-12v-220v-2026-10-17.md",
