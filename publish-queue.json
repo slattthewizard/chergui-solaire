@@ -221,7 +221,8 @@
   },
   {
     "draft": "drafts/convertisseur-12v-220v-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-22T20:52:20.210817Z"
   },
   {
     "draft": "drafts/panneau-solaire-jinko-2026-10-17.md",
