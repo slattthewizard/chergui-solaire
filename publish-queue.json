@@ -226,7 +226,8 @@
   },
   {
     "draft": "drafts/panneau-solaire-jinko-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-24T01:56:34.868786Z"
   },
   {
     "draft": "drafts/variateur-pompe-solaire-2026-10-17.md",
