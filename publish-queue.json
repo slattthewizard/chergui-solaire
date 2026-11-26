@@ -241,7 +241,8 @@
   },
   {
     "draft": "drafts/chauffe-eau-solaire-chaffoteaux-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-26T23:23:33.963897Z"
   },
   {
     "draft": "drafts/panneau-solaire-thermique-ou-photovoltaique-2026-10-17.md",
