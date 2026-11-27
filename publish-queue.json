@@ -246,7 +246,8 @@
   },
   {
     "draft": "drafts/panneau-solaire-thermique-ou-photovoltaique-2026-10-17.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-27T23:01:57.695617Z"
   },
   {
     "draft": "drafts/schema-installation-solaire-2026-10-17.md",
